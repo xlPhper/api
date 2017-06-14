@@ -14,7 +14,7 @@ class XieLeiController extends Controller
 
     public function index()
     {
-
+        return false;
     }
     public function show()
     {
